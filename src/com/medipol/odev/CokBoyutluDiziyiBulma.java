@@ -2,15 +2,15 @@ public class CokBoyutluDiziyiBulma {
 
 // En büyük elemanı bulma ;
 
-
-    public static void main(String[] args) {
-        double[][] matris = {{56, 12, 1, 231},
-                {234, 21, 78, 26},
-                {654, 33, 32, 67},
+                                                                                                                    /*  0|j
+    public static void main(String[] args) {                                                                       0|j  56 |12 |1 |231 
+        double[][] matris = {{56, 12, 1, 231},                                                                          234|21 |78|26
+                {234, 21, 78, 26},                                                                                      654|33 |32|67                                                           
+                {654, 33, 32, 67},                                                                                      189|35|56 |89                                                                                                
                 {189, 35, 56, 89}
 
         };
-
+                                                                                                                       */
 
     }
 
