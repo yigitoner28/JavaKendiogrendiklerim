@@ -1,6 +1,6 @@
 public class CokBoyutluDiziyiBulma {
 
-
+// En büyük elemanı bulma ;
 
 
     public static void main(String[] args) {
@@ -14,7 +14,7 @@ public class CokBoyutluDiziyiBulma {
 
     }
 
-    public static double enBuyukElemaniBul(double[][] buyukCalis) {
+    public static double enBuyukElemaniBul(double[][] buyukCalis) {  // ilk int olarak yapmaya çalıştım hata verdiği için double cinsine döndüm
         double enBuyukEleman = buyukCalis[0][0];
         int i;
         for (i = 0; i < buyukCalis.length; i++) {
